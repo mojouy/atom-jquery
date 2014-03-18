@@ -1,0 +1,15 @@
+{
+  "name": "jquery-snippets",
+  "main": "./lib/jquery-snippets",
+  "version": "0.0.0",
+  "description": "Jquery Snippets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atom/jquery-snippets"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}

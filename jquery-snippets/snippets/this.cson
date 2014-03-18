@@ -1,0 +1,4 @@
+'.source.js.jquery':
+  '$(this)':
+    prefix: 'this'
+    body: '$(this)$0'

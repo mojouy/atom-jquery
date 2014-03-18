@@ -1,0 +1,6 @@
+".source.js.jquery":
+  "toggleClass":
+    "prefix": ".toggleClass"
+    "body": """
+    require('${1:module}');
+    """
