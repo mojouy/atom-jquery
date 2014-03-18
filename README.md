@@ -1,5 +1,8 @@
 # Jquery Snippets for [Atom](http://atom.io)
 
+```sh
+#### ALFA STAGE ####
+```
 ## Install
 
 Go to `Atom > Preferences...` then search for **Jquery Snippets** in Packages tab.
